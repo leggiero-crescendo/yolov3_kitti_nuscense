@@ -1,0 +1,1 @@
+python main.py --mode train --cfg ./yolov3.cfg --gpus 0
